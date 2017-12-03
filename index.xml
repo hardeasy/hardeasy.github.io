@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://wxh.github.io/</link>
+    <link>http://hardeasy.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017. All rights reserved.</copyright>
     <lastBuildDate>Sat, 02 Dec 2017 15:12:29 +0800</lastBuildDate>
     
-	<atom:link href="http://wxh.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://hardeasy.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>使用markdown</title>
-      <link>http://wxh.github.io/post/%E4%BD%BF%E7%94%A8markdown/</link>
+      <link>http://hardeasy.github.io/post/%E4%BD%BF%E7%94%A8markdown/</link>
       <pubDate>Sat, 02 Dec 2017 15:12:29 +0800</pubDate>
       
-      <guid>http://wxh.github.io/post/%E4%BD%BF%E7%94%A8markdown/</guid>
+      <guid>http://hardeasy.github.io/post/%E4%BD%BF%E7%94%A8markdown/</guid>
       <description>开始使用markdown写文档,这里总结一下
 1、什么是markdown，有哪些优势
 2、基本语法
@@ -42,10 +42,10 @@ if (isAwesome){ return true }  5、列表 无序列表 * 列表1 * 列表2 * 列
     
     <item>
       <title>第一个文档</title>
-      <link>http://wxh.github.io/post/first/</link>
+      <link>http://hardeasy.github.io/post/first/</link>
       <pubDate>Tue, 28 Nov 2017 22:12:29 +0800</pubDate>
       
-      <guid>http://wxh.github.io/post/first/</guid>
+      <guid>http://hardeasy.github.io/post/first/</guid>
       <description>嗯嗯，还不错，后面在慢慢完善一下。</description>
     </item>
     
